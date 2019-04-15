@@ -21,7 +21,7 @@ ingress:
     #kubernetes.io/tls-acme: "true"
   path: /
   hosts:
-    - gb.todd004.rnd.gic.ericsson.se
+    - gb2.todd004.rnd.gic.ericsson.se
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:
